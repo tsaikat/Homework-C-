@@ -1,1 +1,1 @@
-Homework from PA1 class at CVUT
+Homeworks from PA1 class at CVUT
