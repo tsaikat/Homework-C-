@@ -1,4 +1,4 @@
-task is to develop class CDate to represent a date. The dates will follow Gregorian calendar rules. It is required that at least years 2000 to 2030 are handled by the class.
+Task is to develop class CDate to represent a date. The dates will follow Gregorian calendar rules. It is required that at least years 2000 to 2030 are handled by the class.
 
 The class shall have the following interface:
 
